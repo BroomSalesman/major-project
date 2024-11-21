@@ -14,4 +14,6 @@ function draw() {
   background(220);
   fill('yellow');
   circle(mouseX, mouseY, 100);
+  fill('black')
+  text("literally my final project final draft", mouseX, mouseY);
 }
